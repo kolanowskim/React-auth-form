@@ -1,3 +1,12 @@
+## Technology
+```
+React.js
+TypeScript
+MySQL
+```
+
+
+
 ## Steps to run application:
 * Change .env.local to .env
 * Set up the API URI inside .env
