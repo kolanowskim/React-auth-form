@@ -2,7 +2,6 @@
 ```
 React.js
 TypeScript
-MySQL
 ```
 
 
